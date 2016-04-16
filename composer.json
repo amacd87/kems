@@ -1,0 +1,11 @@
+{
+  "name": "fadyazmy/kems",
+  "description": "Website for Kings Economics and Math Society",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Fady Azmy"
+    }
+  ]
+}
